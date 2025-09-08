@@ -1,2 +1,2 @@
 #c'est le script 
-x=10
+x = 7
